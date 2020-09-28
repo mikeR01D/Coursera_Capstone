@@ -1,3 +1,5 @@
+# Data Information
+
 We will use the dataset that comes  directly from the New Zealand Transport Agency and could be gotten from this website:- data.govt.nz
 
 The dataset comes in a hybrid mode; meaning we have both categorical and numerical features. This allows us to treat the problem from a
